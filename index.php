@@ -13,6 +13,6 @@ require_once(ROOT . '/SourceFiles/components/Router.php');
 //3.Установка соединения с БД
 
 
-//4.вызов Router
+//4.вызов Router.
 $router = new Router();
 $router -> run();
